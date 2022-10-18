@@ -19,7 +19,7 @@ class LayoutApp extends StatelessWidget {
           body: Container(
             decoration: BoxDecoration(
               color: Colors.black,
-              border: Border.all(width: 3.0, color: Colors.red),
+              border: Border.all(width: 3.0, color: Colors.green),
             ),
             child: Card(
                 child: Row(
